@@ -1,0 +1,1 @@
+// call decrypt function in decrypt.js
